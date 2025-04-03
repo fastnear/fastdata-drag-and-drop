@@ -129,6 +129,7 @@ export function Upload(props) {
 
       <div>
         <h4>Step 3: Upload</h4>
+        <p>1.4MB per file</p>
         <div>
           <div className="mb-2">
             {files.map((file, index) => (
